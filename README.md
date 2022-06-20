@@ -1,1 +1,2 @@
-# zero2pro
+# zero2prod
+BackEnd: Newsletter Server
